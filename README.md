@@ -5,7 +5,7 @@ Este repo es para probar hacer pruebas en local y posterior subidas al repo de g
 ---
 LISTA
 
-- [ ] 
+- [] 
 - [x] primera
 - [x] segunda
 - [ ] 
