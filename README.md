@@ -15,12 +15,12 @@ LISTA
 
 ---
 
-(https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+![Engelbartjjjj](https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_1280.png)
 
 ---
 ***ejecutar esto:***
 
-```js
+```
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
