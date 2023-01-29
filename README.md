@@ -15,7 +15,18 @@ LISTA
 
 ---
 
-![Engelbartjjjj](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+(https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
 
-![Engelbart|100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+---
+***ejecutar esto:***
+
+```js
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+
 
