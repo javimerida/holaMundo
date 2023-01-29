@@ -5,12 +5,13 @@ Este repo es para probar hacer pruebas en local y posterior subidas al repo de g
 ---
 LISTA
 
+- [ ] 
 - [x] primera
 - [x] segunda
-- [ ] apartado
- - [x] otra1
- - [x] otra2
- - [ ] otro apart
+- [ ] 
+  - [x] otra1
+  - [x] otra2
+- [ ] otro apart
 
 ---
 - [x] FASDASD
