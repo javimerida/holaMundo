@@ -14,8 +14,3 @@ LISTA
 
 
 ---
-- [x] FASDASD
-- [x] MLKMLÑK
-- [ ] 
- - [x] FADSFASD
- - [ ] FASDFASD
