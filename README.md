@@ -7,7 +7,7 @@ LISTAS DE TAREAS
 guion, abrimos corchete, dejamos espacio, cerramos corchete
 - [x] primera
 - [x] segunda
-- [ ] 
+- [ ] temario
  - [x] otra1
  - [ ] otra2
- - [ ] 
+ - [ ] contidad
