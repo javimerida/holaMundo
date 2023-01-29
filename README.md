@@ -23,7 +23,8 @@ function fancyAlert(arg) {
   }
 }
 ```
-
+---
+![imagen](https://media.istockphoto.com/id/1441381295/es/vector/mapa-oscuro-de-control-de-versiones.jpg?s=1024x1024&w=is&k=20&c=KnFMXL-bpxgGBNqZWR_PAZCAO1pGSjnnKfppuRKGzbQ=)
 
 
 
