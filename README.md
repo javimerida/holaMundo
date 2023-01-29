@@ -14,3 +14,8 @@ LISTA
 
 
 ---
+
+![Engelbartjjjj](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+
+![Engelbart|100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+
