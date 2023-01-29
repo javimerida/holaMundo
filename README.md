@@ -12,12 +12,8 @@ LISTA
     - [x] otra1
     - [x] otra2
 
-
 ---
 
-![Engelbartjjjj](https://www.istockphoto.com/es/vector/mapa-oscuro-de-control-de-versiones-gm1441381295-481099689)
-
----
 ***ejecutar esto:***
 
 ```js
